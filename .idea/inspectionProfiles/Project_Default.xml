@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Tuan2.main1.set" />
+          <option value="Tuan2.bai2_222.py" />
+          <option value="mpl_events" />
+          <option value="Seting3" />
+          <option value="Login3" />
+          <option value="DOAN2.face.face_recognizer.imutils" />
+          <option value="DOAN2.face.face_recognizer.keras_facenet" />
+          <option value="utils" />
+          <option value="align.detect_face" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
